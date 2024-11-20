@@ -1,4 +1,4 @@
-![Screenshot](https://ibb.co/WH8jjxQ)
+![Screenshot](image/ecom-test.PNG)
 
 
 # My E-Commerce Website
