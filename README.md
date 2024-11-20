@@ -1,3 +1,6 @@
+![Screenshot](https://ibb.co/WH8jjxQ)
+
+
 # My E-Commerce Website
 
 This is a simple e-commerce website built using HTML, CSS, and hosted on AWS. It demonstrates how to list products and deploy a static website on AWS EC2 using Nginx.
